@@ -1,6 +1,8 @@
 # Todo App
 
-A simple Todo app built with [Javascript/ReactJs].
+![Web capture_28-9-2023_95440_spontaneous-dieffenbachia-038297 netlify app](https://github.com/shubham13101996/todoapp-assessment/assets/121822895/c2ed007f-6279-44cc-868b-0b3c16c9e39e)
+
+A simple Todo app built with [Javascript/Vite-ReactJs].
 
 
 ## Features
